@@ -1,0 +1,25 @@
+LogId,StartTime,Duration,Efficiency,IsMainSleep,SleepDataType,MinutesAfterWakeUp,MinutesAsleep,MinutesToFallAsleep,TimeInBed,ClassicAsleepCount,ClassicAsleepDuration,ClassicAwakeCount,ClassicAwakeDuration,ClassicRestlessCount,ClassicRestlessDuration,StagesWakeCount,StagesWakeDuration,StagesWakeThirtyDayAvg,StagesLightCount,StagesLightDuration,StagesLightThirtyDayAvg,StagesDeepCount,StagesDeepDuration,StagesDeepThirtyDayAvg,StagesREMCount,StagesREMDuration,StagesREMThirtyDayAvg,SleepLogType
+38863826936,10/25/2022 10:05:00 PM,34140000,96,True,stages,0,499,0,569,,,,,,,13,70,0,22,351,0,6,78,0,7,70,0,auto_detected
+38887908898,10/27/2022 10:53:30 PM,36240000,91,True,stages,0,532,0,604,,,,,,,16,72,79,19,318,335,2,146,87,12,68,64,auto_detected
+38898667160,10/28/2022 5:00:30 PM,5820000,93,False,classic,0,90,0,97,0,90,0,0,2,7,,,,,,,,,,,,,auto_detected
+38898667161,10/28/2022 8:13:00 PM,5220000,91,False,classic,0,79,0,87,0,79,0,0,5,8,,,,,,,,,,,,,auto_detected
+38898667162,10/28/2022 11:24:30 PM,35460000,90,True,stages,1,540,0,591,,,,,,,23,51,76,24,344,329,6,69,107,13,127,65,auto_detected
+38910689883,10/29/2022 10:24:30 PM,36900000,92,True,stages,0,535,0,615,,,,,,,16,80,70,21,369,333,4,85,97,4,81,81,auto_detected
+38921570563,10/30/2022 10:30:00 PM,5160000,90,False,classic,0,77,0,86,0,77,2,4,3,5,,,,,,,,,,,,,auto_detected
+38921570564,10/31/2022 1:05:00 AM,25440000,92,True,classic,0,389,0,424,0,389,1,6,13,29,,,,,,,,,,,,,auto_detected
+38934528302,10/31/2022 10:44:30 PM,36000000,93,True,stages,3,523,0,600,,,,,,,17,77,72,18,214,340,2,166,95,6,143,81,auto_detected
+39239798478,11/20/2022 1:36:00 PM,22200000,88,True,classic,0,326,0,370,0,326,4,12,13,32,,,,,,,,,,,,,auto_detected
+39239798479,11/21/2022 1:51:30 PM,29280000,88,True,stages,0,432,0,488,,,,,,,13,56,73,16,253,319,3,66,107,9,113,91,auto_detected
+39263466521,11/28/2022 10:58:00 PM,38520000,96,True,stages,0,589,0,642,,,,,,,12,53,76,19,353,280,4,40,91,10,196,98,auto_detected
+39276615452,11/29/2022 11:25:30 PM,28680000,98,True,stages,0,421,0,478,,,,,,,6,57,69,11,201,276,2,107,80,6,113,126,auto_detected
+39620093205,12/23/2022 11:46:30 PM,27780000,96,True,classic,0,445,0,463,0,445,3,4,8,14,,,,,,,,,,,,,auto_detected
+39620093206,12/24/2022 10:44:00 PM,16440000,94,True,classic,1,256,0,274,0,256,1,4,6,14,,,,,,,,,,,,,auto_detected
+39620093207,12/25/2022 7:51:00 AM,4080000,100,False,classic,0,68,0,68,0,68,0,0,0,0,,,,,,,,,,,,,auto_detected
+39620093208,12/26/2022 4:58:30 PM,56880000,97,True,classic,0,915,0,948,0,915,3,12,7,21,,,,,,,,,,,,,auto_detected
+39620093209,12/27/2022 9:50:30 AM,14100000,95,False,stages,0,221,0,235,,,,,,,3,14,67,6,138,280,1,19,65,5,64,121,auto_detected
+39620093210,12/27/2022 4:48:30 PM,5640000,100,False,classic,0,94,0,94,0,94,0,0,0,0,,,,,,,,,,,,,auto_detected
+39620093211,12/28/2022 6:37:00 AM,21780000,94,True,stages,0,320,0,363,,,,,,,7,43,54,10,253,244,2,50,54,1,17,107,auto_detected
+39669697441,1/2/2023 9:19:30 AM,6060000,95,False,classic,0,96,0,101,0,96,0,0,2,5,,,,,,,,,,,,,auto_detected
+39669697442,1/2/2023 12:51:30 PM,3900000,100,False,classic,0,65,0,65,0,65,0,0,0,0,,,,,,,,,,,,,auto_detected
+39669697443,1/2/2023 4:40:30 PM,19020000,93,True,classic,0,295,0,317,0,295,3,6,7,16,,,,,,,,,,,,,auto_detected
+39669697444,1/3/2023 10:42:00 AM,4140000,99,False,classic,0,68,0,69,0,68,0,0,1,1,,,,,,,,,,,,,auto_detected
